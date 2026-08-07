@@ -69,7 +69,3 @@ Hedefleri, görevleri ve alışkanlıkları tek bir yerden yönetmeye yardımcı
 ## İletişim
 
 Yeni ürünler geliştirmeye, açık kaynak katkılarına ve junior yazılım geliştirme fırsatlarına açığım.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyrexD&layout=compact&theme=transparent&hide_border=true" alt="En çok kullanılan diller" />
-</p>
