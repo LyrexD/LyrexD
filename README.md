@@ -18,7 +18,17 @@
 - React ve TypeScript ekosisteminde web projeleri üretiyorum.
 - Test, erişilebilirlik ve anlaşılır dokümantasyon konularına odaklanıyorum.
 
-## Öne çıkan proje
+## Öne çıkan projeler
+
+### [GeoSEO Lead Engine](https://github.com/LyrexD/geoseo-lead-engine)
+
+Yerel işletme keşfi, güvenli teknik SEO/GEO denetimi, açıklanabilir fırsat puanlama ve CRM takibini tek akışta birleştiren tam yığın web uygulaması.
+
+- React 19, TypeScript, Node.js ve Express
+- OpenStreetMap/Overpass tabanlı işletme keşfi
+- SSRF korumalı canlı domain denetimi
+- Deterministik puanlama, kalıcı CRM ve teklif üretimi
+- 11 otomatik test ve GitHub Actions CI
 
 ### [Psula](https://github.com/LyrexD/Psula-Apps)
 
@@ -32,7 +42,7 @@ Hedefleri, görevleri ve alışkanlıkları tek bir yerden yönetmeye yardımcı
 
 ## Teknolojiler
 
-`Kotlin` `Jetpack Compose` `Room` `Coroutines` `StateFlow` `Material 3` `JavaScript` `TypeScript` `React` `Git` `GitHub Actions`
+`TypeScript` `React` `Node.js` `Express` `Kotlin` `Jetpack Compose` `Room` `Coroutines` `StateFlow` `Material 3` `Git` `GitHub Actions`
 
 ## İletişim
 
